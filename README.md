@@ -1,4 +1,4 @@
-# opencv-mobile
+# opencv-mobile(calib3d enabled version)
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)
 ![build](https://img.shields.io/github/actions/workflow/status/nihui/opencv-mobile/release.yml?style=for-the-badge)
